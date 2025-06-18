@@ -1,0 +1,30 @@
+{
+  "name": "etherscamdb_js_address_validation",
+  "version": "1.2.1",
+  "description": "A simple JS lib that will check EtherScamDB to see the status of an Ethereum address.",
+  "main": "dist/esd-min.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Ethereum",
+    "security",
+    "blacklist",
+    "whitelist"
+  ],
+  "author": "Denis Rylikov",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^3.0.0"
+  }
+}
